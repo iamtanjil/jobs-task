@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 366 299" width="366" height="299">
+	<title>quote-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h366v299h-366z"/>
+		</clipPath>
+		<image  width="323" height="260" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUMAAAEEBAMAAABAQEvgAAAAAXNSR0IB2cksfwAAABtQTFRFAAAAIm/vInDvInLuAP//AP//QP//AP//Im/v3lDy9AAAAAl0Uk5TAP/ggwMBBALgpIJotQAAAtJJREFUeJzt3NtxGzEMhWE5ySR+jGdyeU4HdgdOCe4g6SAlqHRPCljoDA+wJKgfBZz5SIC78sqry+WgntT6epQQ14OfX038ZefLi3waE+pb4CdU93ke0c+nzwnneZ1NnEb86Of7i4zL7/Mnf5Fx+fkJN6ewErZATmhwfx4TNuizTPxeuMi46LO2yBzicf5fe5FxyVvwai/y2yBRzW/dZ5k4KGxwnhO2wF9kXH5+dZ8/+8RlLjnHEf4i4/Lzq/vcgNigzyoxyPcXGZe/BcuM4nFCQh/CatDnBkQ/v7rPX8T8nz7xzyCxQZ9/+/n+IuPyt6B6FBO2QCWOChO2IGFUUohBhL/IuMT8H+sTG4yiHxH1oZooJkzssxoxKmwwio9+vkgc7vN5p6Wa2GAUr+sTg4QGfRYjrusTR4WXNz9fS5g5imLE8Chm5BcTG4yimP+6PjGK0J5xV4/ifZyWYWECscEoahHjfW5A1IQzL9z7nJbqiCWI1afl+P9y5IhqYpivRQwLOxCl+KmjuA0xzi8mJoziByliWCgSr35ENdGPMEaxAVESTj0tpxHHhQ2I2iPkhFWOExucll2IcX418eUk4riwwYHOyFcShr+cPI9ojGLGFhQTM07j+sTqA70LsTwiLCU+gVh9oG8Q3xYgzj3QZxGf1ycaQunFh7nEjAvG+sRNrtzOgd6EeCN/hZvLfRANYYMrd0Y+xAZE6bGYT5x85V6BGH4/uQbxRr4yK5vf/04iGsIOROUNlQa36H/rE29EQMwgKuM8mSgkOM+5TyI6V26Id0LM+AgAESJENX+TD90QIUKUIxy+Gf//IwZEiBAhQmxHdBMgQoQIESJEiBAhQtybqP6G6kSi+hNtE4nun0YQIUKECBEiRIgQIUKECBEiRIgQIUKECBEiRIgQIUKECBEiRIgQIUKECBEiRIgQIUKECBEiRIgQIUKECBEixDpiwguf71BP0IiQTuoTAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<g id="Clip-Path: Mask_Group_7" clip-path="url(#cp1)">
+		<g id="Mask_Group_7" style="opacity: .2">
+			<use id="“" href="#img1" x="20" y="37"/>
+		</g>
+	</g>
+</svg>
